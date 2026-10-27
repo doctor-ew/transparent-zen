@@ -99,3 +99,8 @@ body > div,
 [aria-label="Project navigation"]::before {
   display: none !important;
 }
+
+/* confluence-transparency */
+body, div, dl, fieldset, form, h1, h2, h4, h5, h6, html, img, ol, p, pre, ul, nav, nav * {
+  background: transparent !important;
+}
